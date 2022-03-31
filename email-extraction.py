@@ -167,6 +167,8 @@
 
 # print(type(mail))
 
+####  Final Method ####
+# Follow this #
 from statistics import mode
 from unicodedata import name
 import pandas as pd
