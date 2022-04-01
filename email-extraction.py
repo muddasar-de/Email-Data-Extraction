@@ -169,7 +169,7 @@
 
 ####  Final Method ####
 # Follow this #
-from statistics import mode
+from statistics import mode 
 from unicodedata import name
 import pandas as pd
 from email import policy
@@ -187,6 +187,7 @@ dict = {
 def get_email_info(fp):
     msg = BytesParser(policy=policy.default).parse(fp)
     body = msg.get_body(preferencelist=('plain')).get_content()
+    # print(body,msg)
 
     dict["from"].append(msg['from'])
     dict["to"].append(msg['to'])
