@@ -1,120 +1,31 @@
 from,to,subject,body,date
 root@a1.local.tld,ooo@a1.local.tld,Office Email,"Lorem Ipsum is simply dummy text of the printing and typesetting industry.
  Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, 
- when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, 
-","Thu, 25 Jul 2013 19:28:59 -0700"
+ when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting,","Thu, 25 Jul 2013 19:28:59 -0700"
 root@a1.local.tld,ooo@a1.local.tld,Student Email,"Lorem Ipsum is simply dummy text of the printing and typesetting industry.
  Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, 
- when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, 
-","Thu, 25 Jul 2013 19:28:59 -0700"
-Quora Digest <english-personalized-digest@quora.com>,muddasarajmal87@gmail.com,Why did Facebook replace PHP for back-end?,"
+ when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting,","Thu, 25 Jul 2013 19:28:59 -0700"
+root@a1.local.tld,ooo@a1.local.tld,Home Email,"Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+ Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, 
+ when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting,","Thu, 25 Jul 2013 19:28:59 -0700"
+phillip.allen@enron.com,tim.belden@enron.com,,Here is our forecast,"Mon, 14 May 2001 16:39:00 -0700"
+phillip.allen@enron.com,john.lavorato@enron.com,Re:,"Traveling to have a business meeting takes the fun out of the trip.  Especially if you have to prepare a presentation.  I would suggest holding the business plan meetings here then take a trip without any formal business meetings.  I would even try and get some honest opinions on whether a trip is even desired or necessary.
 
------
+As far as the business meetings, I think it would be more productive to try and stimulate discussions across the different groups about what is working and what is not.  Too often the presenter speaks and the others are quiet just waiting for their turn.   The meetings might be better if held in a round table discussion format.  
 
-Question: Why did Facebook replace PHP for back-end?
+My suggestion for where to go is Austin.  Play golf and rent a ski boat and jet ski's.  Flying somewhere takes too much time.","Fri, 04 May 2001 13:51:00 -0700"
+root@a1.local.tld,ooo@a1.local.tld,Office Email,"Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+ Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, 
+ when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting,","Thu, 25 Jul 2013 19:28:59 -0700"
+root@a1.local.tld,ooo@a1.local.tld,Student Email,"Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+ Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, 
+ when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting,","Thu, 25 Jul 2013 19:28:59 -0700"
+root@a1.local.tld,ooo@a1.local.tld,Home Email,"Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+ Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, 
+ when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting,","Thu, 25 Jul 2013 19:28:59 -0700"
+phillip.allen@enron.com,tim.belden@enron.com,,Here is our forecast,"Mon, 14 May 2001 16:39:00 -0700"
+phillip.allen@enron.com,john.lavorato@enron.com,Re:,"Traveling to have a business meeting takes the fun out of the trip.  Especially if you have to prepare a presentation.  I would suggest holding the business plan meetings here then take a trip without any formal business meetings.  I would even try and get some honest opinions on whether a trip is even desired or necessary.
 
+As far as the business meetings, I think it would be more productive to try and stimulate discussions across the different groups about what is working and what is not.  Too often the presenter speaks and the others are quiet just waiting for their turn.   The meetings might be better if held in a round table discussion format.  
 
-Answer from Ryan Jentzsch
-
-
-Because at the time PHP was unable to provide the performance that Facebook needed. Facebook created their own language based on PHP called Hack [ https://hhvm.com/blog/42 
-Read More: https://www.quora.com/qemail/tc?al_imp=eyJ0eXBlIjogMzMsICJoYXNoIjogIjE1MTU0NTY0MDA4OTQwOTc0NTN8MXwxfDIxOTc5MjU5OCJ9&al_pri=8&aoid=YO13Vj3pMby&aoty=1&aty=4&cp=1&et=2&id=bc98414f575f43cf8ee828d1273f1b26&uid=zbr0omW1nDx
------
-Question: Are cigarettes essential during war?
-
-
-Answer from Roland Bartetzko
-
-
-I quit smoking many years ago, but if a war breaks out tomorrow, I will start smoking again.
-
-During wartime, everyone smokes: I saw six years old kids and old women light 
-Read More: https://www.quora.com/qemail/tc?al_imp=eyJ0eXBlIjogMzMsICJoYXNoIjogIjE1MTU0NTY0MDA4OTQwOTc0NTN8MnwxfDMzNzM3ODU2NCJ9&al_pri=8&aoid=U2DLVJtCjA&aoty=1&aty=4&cp=2&et=2&id=bc98414f575f43cf8ee828d1273f1b26&uid=zbr0omW1nDx
------
-Question: If 9²⁻ˣ = 3, what is the value of x?
-
-
-Answer from Lai Johnny
-
-
-[math] \begin{aligned}& 9^{2 -x}=3 \\\Rightarrow &\left(3^{2}\right)^{2 -x}=3 \\\Rightarrow & 3^{2(2 -x)}=3^{1} \\\Rightarrow & 2(2 -x)=1 \\\Rightarrow & 4 -2x=1 \\\Righta 
-Read More: https://www.quora.com/qemail/tc?al_imp=eyJ0eXBlIjogMzMsICJoYXNoIjogIjE1MTU0NTY0MDA4OTQwOTc0NTN8M3wxfDMzODkyNzgxMCJ9&al_pri=8&aoid=8tnL6vunA1B&aoty=1&aty=4&cp=3&et=2&id=bc98414f575f43cf8ee828d1273f1b26&uid=zbr0omW1nDx
------
-Question: Why do companies still use Microsoft languages like C#?
-
-
-Answer from Arb Distress
-
-
-Personally to me C# on dot net core (or .net 5) is THE new Java. In financial world like investment banks and hedge funds C# is a very popular language because it can easi 
-Read More: https://www.quora.com/qemail/tc?al_imp=eyJ0eXBlIjogMzMsICJoYXNoIjogIjE1MTU0NTY0MDA4OTQwOTc0NTN8NHwxfDI4ODExODQxNiJ9&al_pri=8&aoid=1DY6WufHJl2&aoty=1&aty=4&cp=4&et=2&id=bc98414f575f43cf8ee828d1273f1b26&uid=zbr0omW1nDx
------
-Question: I was denied a US visa even though I was confident and everything tallied with what was in my DS-160. How can I prepare better because I am trying to reapply?
-
-
-Answer from Matt P.
-
-
-Applying for a US visa isn’t like passing a test. You don’t study or prepare for it, see where you went wrong and try again.
-
-Why, why, why do people seem to think reapply 
-Read More: https://www.quora.com/qemail/tc?al_imp=eyJ0eXBlIjogMzMsICJoYXNoIjogIjE1MTU0NTY0MDA4OTQwOTc0NTN8NXwxfDMyNDg5NTMzMiJ9&al_pri=8&aoid=aJAsGF6HIXq&aoty=1&aty=4&cp=5&et=2&id=bc98414f575f43cf8ee828d1273f1b26&uid=zbr0omW1nDx
------
-Question: Do grades (GPA) really matter?
-
-
-Answer from Srinath Nalluri
-
-
-Let me tell you a story
-
-
-> There was a girl who was super-attractive.
-
-Everyone in the college thought she would become an actress someday.
-
-It was not uncommon to find 5 
-Read More: https://www.quora.com/qemail/tc?al_imp=eyJ0eXBlIjogMzMsICJoYXNoIjogIjE1MTU0NTY0MDA4OTQwOTc0NTN8NnwxfDIwNTYwNjg5NyJ9&al_pri=8&aoid=mTQzKVfqYIY&aoty=1&aty=4&cp=6&et=2&id=bc98414f575f43cf8ee828d1273f1b26&uid=zbr0omW1nDx
------
-Question: Why are salaries for software engineers so high, even when the barrier to entry is so low?
-
-
-Answer from Joshua Gross
-
-
-You can add my name to the long list of people here saying that your assertion here is simply incorrect. I pay a fair bit of attention to developer salaries, and I can ass 
-Read More: https://www.quora.com/qemail/tc?al_imp=eyJ0eXBlIjogMzMsICJoYXNoIjogIjE1MTU0NTY0MDA4OTQwOTc0NTN8N3wxfDMyNTIwNzMwMyJ9&al_pri=8&aoid=6t6YM4iTny&aoty=1&aty=4&cp=7&et=2&id=bc98414f575f43cf8ee828d1273f1b26&uid=zbr0omW1nDx
------
-Question: Hi Kathryn, I withdrew my B1/B2 visa at entry because there was evidence of intent to immigrate and I had concealed a material fact when interviewed for the visa (misrepresentation-US spouse). Now divorced, 11 yrs later can I get a US visa?
-
-
-Answer from Kathryn Berck
-
-
-‘Hi Kathryn, I withdrew my B1/B2 visa at entry because there was evidence of intent to immigrate and I had concealed a material fact when interviewed for the visa (misrepr 
-Read More: https://www.quora.com/qemail/tc?al_imp=eyJ0eXBlIjogMzMsICJoYXNoIjogIjE1MTU0NTY0MDA4OTQwOTc0NTN8OHwxfDMyOTI5OTcxMiJ9&al_pri=8&aoid=3rTcWdD9tU&aoty=1&aty=4&cp=8&et=2&id=bc98414f575f43cf8ee828d1273f1b26&uid=zbr0omW1nDx
------
-Question: Was Margot Robbie's full frontal in the Wolf of Wall Street really necessary to further the story?
-
-
-Answer from Steven
-
-
-Yes: it was the core of their relationship, which was fully about sex: the power she could derive from her sexuality and the ego trip and experience of success he could de 
-Read More: https://www.quora.com/qemail/tc?al_imp=eyJ0eXBlIjogMzMsICJoYXNoIjogIjE1MTU0NTY0MDA4OTQwOTc0NTN8OXwxfDI3MzMwNzIxMiJ9&al_pri=8&aoid=42V45BQ8Iju&aoty=1&aty=4&cp=9&et=2&id=bc98414f575f43cf8ee828d1273f1b26&uid=zbr0omW1nDx
------
-Question: What is the fastest anyone has been fired from a job?
-
-
-Answer from Callie Doggett
-
-
-I arrived in the morning and saw a new person sitting at the front desk. I greeted her warmly and said, “I’m Callie.” She looked at me, with an angry expression on her fac 
-Read More: https://www.quora.com/qemail/tc?al_imp=eyJ0eXBlIjogMzMsICJoYXNoIjogIjE1MTU0NTY0MDA4OTQwOTc0NTN8MTB8MXwzMDk3MjA3NDkifQ%3D%3D&al_pri=8&aoid=qvnxF9P6mg7&aoty=1&aty=4&cp=10&et=2&id=bc98414f575f43cf8ee828d1273f1b26&uid=zbr0omW1nDx
------
-
------
-
-To control which emails we send you, visit: https://www.quora.com/qemail/tc?aoid&aoty=14&aty=4&cp=0&et=2&id=bc98414f575f43cf8ee828d1273f1b26&uid=zbr0omW1nDx
-
-To unsubscribe from this type of email, visit: https://www.quora.com/email_optout/qemail_unsubscribe?email_track_id=bc98414f575f43cf8ee828d1273f1b26&t=1648354537453184&token=e5fcd37a8fbbd6ca15c5750dd68263bc6c9b055c288b8d3473c3325598accf6707257d191a7f3c7c3cf44b789c40c0053fa5d7ef4334e524c24d6740d95d30a4&type=2&uid=389772604","Sun, 27 Mar 2022 04:15:37 +0000"
+My suggestion for where to go is Austin.  Play golf and rent a ski boat and jet ski's.  Flying somewhere takes too much time.","Fri, 04 May 2001 13:51:00 -0700"

@@ -192,7 +192,7 @@ def get_email_info(fp):
     dict["from"].append(msg['from'])
     dict["to"].append(msg['to'])
     dict["subject"].append(msg['subject'])
-    dict["body"].append(body)
+    dict["body"].append(body.strip())
     dict["date"].append(msg['date'])
    
 def set_csv(dic):
@@ -201,9 +201,9 @@ def set_csv(dic):
 
 # main Function:
 ext = ".txt"
-name = "./mails/mail"
+path = "./mails/mail"
 for count in range(1,6):
-    with open(name+str(count)+ext, 'rb') as fp:
+    with open(path+str(count)+ext, 'rb') as fp:
         get_email_info(fp)
 set_csv(dict)
     # print(dict)
